@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ArrayAdapter</string>
+    <string-array name="headings">
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Duck</item>
+        <item>Fish</item>
+        <item>Horse</item>
+        <item>Parrot</item>
+        <item>Pigeon</item>
+        <item>Rabbit</item>
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Duck</item>
+        <item>Fish</item>
+        <item>Horse</item>
+        <item>Parrot</item>
+        <item>Pigeon</item>
+        <item>Rabbit</item>
+    </string-array>
+</resources>
